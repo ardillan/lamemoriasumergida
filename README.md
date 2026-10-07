@@ -15,4 +15,4 @@ Importa este repositorio en Vercel. La configuración recomendada es:
 - **Build Command:** dejar vacío
 - **Output Directory:** `.`
 
-Vercel servirá `index.html` directamente; no se necesita instalar dependencias ni configurar un proceso de compilación. El mapa se carga desde StoryMapJS y requiere conexión a internet. El contenedor de Google Tag Manager está integrado en la página.
+Vercel servirá `index.html` directamente; no se necesita instalar dependencias ni configurar un proceso de compilación. El mapa se carga desde StoryMapJS y requiere conexión a internet. Web Analytics de Vercel se integra mediante su script HTML y debe estar habilitado en la configuración del proyecto de Vercel.
