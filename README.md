@@ -1,6 +1,6 @@
 # La memoria sumergida
 
-Sitio web editorial para presentar el recorrido **La memoria sumergida**, con el StoryMapJS original integrado como mapa interactivo.
+Sitio web de pantalla completa para mostrar el StoryMapJS original de **La memoria sumergida** sin contenido adicional.
 
 ## Desarrollo local
 
@@ -15,4 +15,4 @@ Importa este repositorio en Vercel. La configuración recomendada es:
 - **Build Command:** dejar vacío
 - **Output Directory:** `.`
 
-Vercel servirá `index.html` directamente; no se necesita instalar dependencias ni configurar un proceso de compilación. La portada está optimizada y guardada en el repositorio; el mapa interactivo sigue cargándose desde StoryMapJS y requiere conexión a internet.
+Vercel servirá `index.html` directamente; no se necesita instalar dependencias ni configurar un proceso de compilación. El mapa se carga desde StoryMapJS y requiere conexión a internet. El contenedor de Google Tag Manager está integrado en la página.
